@@ -21,7 +21,7 @@ First, clone this repository to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/your-username/dns-query-resolver.git
+git clone https://github.com/zainabashraf1047/dns-query-resolver.git
 Navigate to the Project Folder
 
 Change into the project directory:
@@ -80,7 +80,6 @@ Access the Web Interface
 
 Open your browser and go to:
 
-arduino
 Copy code
 http://127.0.0.1:5000/
 This will display the DNS query resolver interface where you can enter a domain name and select the query type (A, AAAA, MX, etc.).
