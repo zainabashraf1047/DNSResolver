@@ -1,0 +1,23 @@
+2024-12-26 23:01:51,283 | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-26 23:01:51,283 | [33mPress CTRL+C to quit[0m
+2024-12-26 23:01:51,288 |  * Restarting with stat
+2024-12-26 23:01:51,889 |  * Debugger is active!
+2024-12-26 23:01:51,893 |  * Debugger PIN: 101-581-546
+2024-12-26 23:02:16,323 | 127.0.0.1 - - [26/Dec/2024 23:02:16] "OPTIONS /resolve HTTP/1.1" 200 -
+2024-12-26 23:02:16,377 | Query: www.google.com, Result: ['142.250.181.164']
+2024-12-26 23:02:16,377 | 127.0.0.1 - - [26/Dec/2024 23:02:16] "POST /resolve HTTP/1.1" 200 -
+2024-12-26 23:07:02,385 |  * Detected change in 'I:\\Sem 5\\CN\\DNS\\backend\\dns_logger.py', reloading
+2024-12-26 23:07:02,471 |  * Restarting with stat
+2024-12-26 23:07:03,255 |  * Debugger is active!
+2024-12-26 23:07:03,262 |  * Debugger PIN: 101-581-546
+2024-12-26 23:11:29,536 | 127.0.0.1 - - [26/Dec/2024 23:11:29] "OPTIONS /resolve HTTP/1.1" 200 -
+2024-12-26 23:11:31,005 | Query: www.google.com, Result: ['142.250.181.164']
+2024-12-26 23:11:31,006 | 127.0.0.1 - - [26/Dec/2024 23:11:31] "POST /resolve HTTP/1.1" 200 -
+2024-12-26 23:11:31,664 | Query: www.google.com, Result: ['142.250.181.164']
+2024-12-26 23:11:31,665 | 127.0.0.1 - - [26/Dec/2024 23:11:31] "POST /resolve HTTP/1.1" 200 -
+2024-12-26 23:11:37,268 | 127.0.0.1 - - [26/Dec/2024 23:11:37] "OPTIONS /resolve HTTP/1.1" 200 -
+2024-12-26 23:11:37,316 | Query: www.netflix.com, Result: ['54.74.73.31', '54.155.178.5', '3.251.50.149']
+2024-12-26 23:11:37,316 | 127.0.0.1 - - [26/Dec/2024 23:11:37] "POST /resolve HTTP/1.1" 200 -
+2024-12-26 23:11:41,088 | Query: www.netflix.com, Result: ['2a05:d018:76c:b684:8ab7:ac02:667b:e863', '2a05:d018:76c:b683:a2cd:4240:8669:6d4', '2a05:d018:76c:b685:e8ab:afd3:af51:3aed']
+2024-12-26 23:11:41,088 | 127.0.0.1 - - [26/Dec/2024 23:11:41] "POST /resolve HTTP/1.1" 200 -
